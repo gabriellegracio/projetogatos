@@ -1,0 +1,47 @@
+* {padding: 0; margin: 0;  box-sizing: border-box ;}
+
+body {font-family: 'Mulish', sans-serif; width: 43rem; height: 194rem;
+    font-size: 1.6rem;
+    background-color: #ffffff;}
+
+.conteiner { padding:0 11rem; width: min(112rem, 100%;);}
+
+nav, footer { background-color: #065E7C; text-align: center;}
+
+nav { width: 100vw; height: 7.2rem;
+    display: flex;
+    align-items: center;justify-content: center; gap: 2.5rem;}
+
+:root { font-size: 62.5%}
+
+.cat { border-radius: 99rem;}
+
+.jojo {border-radius: 99rem; overflow: hidden;}
+
+.input-wrapper label { width: 1px; height: 1px; overflow: hidden; position: absolute;}
+
+.input-wrapper input  {font-family: 'Mulish', sans-serif; width:100%; padding: 1.6rem; background: rgba(255, 255, 255, 0.20);
+    border: 0; border-radius: .4rem;font-size: 1.6rem;font-weight: 600;} 
+
+.input-wrapper input::placeholder { color: #fff;}
+
+main { margin: auto;  width: 43rem;  padding: 0 2.6rem 3.9rem 2.2rem;}
+
+
+h1 { padding-top: 3.1rem; padding-bottom: .8rem;}
+
+
+h2 {margin-bottom: 3.2rem;}
+
+footer { width: 100vw; 
+    height: 6rem; display: flex;
+    justify-content: center; align-items: center;
+    color: #FFF;
+    font-size: 1.6rem;
+    font-weight: 600;
+    line-height: normal; }
+
+
+ 
+
+@midea
